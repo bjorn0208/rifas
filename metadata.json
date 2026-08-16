@@ -1,0 +1,6 @@
+{
+  "name": "Rifa Digital",
+  "description": "Sistema de gerenciamento de rifas digitais baseado em folhas tradicionais de 100 números.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
